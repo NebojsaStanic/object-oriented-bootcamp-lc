@@ -1,6 +1,6 @@
 <?php
 
-class Person
+class PersonTest
 {
     public $name;
     public $age;
@@ -18,14 +18,14 @@ class Person
     public function setAge($age)
     {
         if ($age < 18) {
-            throw new Exception('Person to young');
+            throw new Exception('PersonTest to young');
         }
 
         $this->age = $age;
     }
 }
 
-$john = new Person('John Doe');
+$john = new PersonTest('John Doe');
 
 $john->setAge(30);
 

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cf3653a-db61-4a2f-bcbe-718658a2d34d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/lesson3-encapsulation/LightSwitch.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lesson4-inheritance/inheritance.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/lesson2-getters_setters/Person.php" afterPath="$PROJECT_DIR$/lesson2-getters_setters/Person.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,18 +28,30 @@
       <file leaf-file-name="Person.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson2-getters_setters/Person.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="540">
+              <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+              <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LightSwitch.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LightSwitch.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson3-encapsulation/LightSwitch.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
               <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inheritance.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson4-inheritance/inheritance.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -53,8 +66,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lesson1-classes/Task.php" />
-        <option value="$PROJECT_DIR$/lesson2-getters_setters/Person.php" />
         <option value="$PROJECT_DIR$/lesson3-encapsulation/LightSwitch.php" />
+        <option value="$PROJECT_DIR$/lesson4-inheritance/inheritance.php" />
+        <option value="$PROJECT_DIR$/lesson2-getters_setters/Person.php" />
+        <option value="$PROJECT_DIR$/lesson4-inheritance/inheritance-2.php" />
       </list>
     </option>
   </component>
@@ -97,7 +112,12 @@
             <path>
               <item name="object-oriented-bootcamp-lc" type="b2602c69:ProjectViewProjectNode" />
               <item name="object-oriented-bootcamp-lc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="lesson3-encapsulation" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lesson2-getters_setters" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="object-oriented-bootcamp-lc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="object-oriented-bootcamp-lc" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lesson4-inheritance" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -137,12 +157,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521629444108</updated>
-      <workItem from="1521629445420" duration="2178000" />
+      <workItem from="1521629445420" duration="4251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2178000" />
+    <option name="totallyTimeSpent" value="4251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1664" y="-11" width="1857" height="1092" extended-state="6" />
@@ -187,18 +207,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2-getters_setters/Person.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson3-encapsulation/LightSwitch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2-getters_setters/Person.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4-inheritance/inheritance-2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="866">
+          <caret line="59" column="31" lean-forward="true" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4-inheritance/inheritance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding />
         </state>
       </provider>
