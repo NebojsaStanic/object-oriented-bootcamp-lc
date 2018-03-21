@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cf3653a-db61-4a2f-bcbe-718658a2d34d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/lesson4-inheritance/inheritance.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lesson5-messages_101/messages.index.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/lesson2-getters_setters/Person.php" afterPath="$PROJECT_DIR$/lesson2-getters_setters/Person.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,11 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="inheritance.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="inheritance.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson4-inheritance/inheritance.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages.index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson5-messages_101/messages.index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -70,6 +79,7 @@
         <option value="$PROJECT_DIR$/lesson4-inheritance/inheritance.php" />
         <option value="$PROJECT_DIR$/lesson2-getters_setters/Person.php" />
         <option value="$PROJECT_DIR$/lesson4-inheritance/inheritance-2.php" />
+        <option value="$PROJECT_DIR$/lesson5-messages_101/messages.index.php" />
       </list>
     </option>
   </component>
@@ -112,12 +122,7 @@
             <path>
               <item name="object-oriented-bootcamp-lc" type="b2602c69:ProjectViewProjectNode" />
               <item name="object-oriented-bootcamp-lc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="lesson2-getters_setters" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="object-oriented-bootcamp-lc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="object-oriented-bootcamp-lc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="lesson4-inheritance" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lesson5-messages_101" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -157,12 +162,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521629444108</updated>
-      <workItem from="1521629445420" duration="4251000" />
+      <workItem from="1521629445420" duration="5460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4251000" />
+    <option name="totallyTimeSpent" value="5460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1664" y="-11" width="1857" height="1092" extended-state="6" />
@@ -237,6 +242,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson5-messages_101/messages.index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
           <folding />
         </state>
       </provider>
